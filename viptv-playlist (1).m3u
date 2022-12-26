@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:0,7news
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png",7news
 http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:fe:64:73&stream=71474&extension=m3u8&play_token=jxeDudMyu3
+
+EXTM3U
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA",BTV World
+#http://103.106.2.152:13456/btv_world.m3u8
+#https://tvs1.aynaott.com/btvworld/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
